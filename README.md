@@ -1,6 +1,11 @@
 |course|workshop|certificate|
 |------|--------|-----------|
-|xPore | 
+|xPore |        
+|biosignal
+|plagiarism
+mental disorder
+BiTnet
+arresting criminal
 
 
 # PMU-B-PersonalAI
