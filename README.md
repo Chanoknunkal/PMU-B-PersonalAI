@@ -1,11 +1,12 @@
 |course|workshop|certificate|
 |------|--------|-----------|
-|xPore | [gmm](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb)       
-|biosignal
-|plagiarism
-mental disorder
-BiTnet
-arresting criminal
+|xPore | [gmm](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb)     |[📃]  
+|biosignal| [brain signal](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/model.py)|[📃]
+|plagiarism|[code clone](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
+mental disorder| [NLP](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
+BiTnet|[Effientnet](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_E_san_coding.ipynb)|[📃]
+arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃](![IkfpyHOT13-1236d0576f804d2a])(https://github.com/Chanoknunkal/PMU-B-PersonalAI/assets/156036800/73fc7124-47e7-447b-a733-792b36d703ce)
+
 
 
 # PMU-B-PersonalAI
