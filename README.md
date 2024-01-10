@@ -3,9 +3,6 @@
 Chanoknun Poolpherm
 # Xpore
 # biosignal
-3
-4
-5
-6
 
+# Self introduction Video
 [![watch the video(https://youtu.be/Tmq7ClFuzXY)]
