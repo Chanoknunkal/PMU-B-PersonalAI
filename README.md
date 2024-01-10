@@ -5,7 +5,7 @@
 |plagiarism|[code clone](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=0aade29f671aebbe)
 mental disorder| [NLP](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=3a7d61ff095706a9)
 BiTnet|[Effientnet](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_E_san_coding.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=8e627b84dabec27f)
-arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
+arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
 
 
 
