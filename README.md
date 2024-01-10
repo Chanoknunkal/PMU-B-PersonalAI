@@ -1,6 +1,6 @@
 |course|workshop|certificate|
 |------|--------|-----------|
-|xPore | [https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb]       
+|xPore | [gmm](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb)       
 |biosignal
 |plagiarism
 mental disorder
