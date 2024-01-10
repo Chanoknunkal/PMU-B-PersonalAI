@@ -4,8 +4,8 @@
 |biosignal| [brain signal](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/model.py)|[📃]
 |plagiarism|[code clone](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
 mental disorder| [NLP](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
-BiTnet|[Effientnet](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_E_san_coding.ipynb)|[📃]
-arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[cer][![IkfpyHOT13-1236d0576f804d2a](https://github.com/Chanoknunkal/PMU-B-PersonalAI/assets/156036800/87a6f351-994e-4cb1-b36b-d7eb5aca637f)](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
+BiTnet|[Effientnet](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_E_san_coding.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=8e627b84dabec27f)
+arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃][![IkfpyHOT13-1236d0576f804d2a](https://github.com/Chanoknunkal/PMU-B-PersonalAI/assets/156036800/87a6f351-994e-4cb1-b36b-d7eb5aca637f)](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
 
 
 
