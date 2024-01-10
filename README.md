@@ -1,3 +1,8 @@
+|course|workshop|certificate|
+|------|--------|-----------|
+|xPore | 
+
+
 # PMU-B-PersonalAI
 Chanoknun Poolpherm Triamudom Grade 11
 # xPore: An AI-Powered App for Bioinformaticians
