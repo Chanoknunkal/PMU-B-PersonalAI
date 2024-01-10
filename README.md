@@ -1,9 +1,8 @@
 # PMU-B-PersonalAI
 
 Chanoknun Poolpherm
-
-1.Xpore
-2.
+# Xpore
+# biosignal
 3
 4
 5
