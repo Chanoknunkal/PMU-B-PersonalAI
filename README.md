@@ -1,11 +1,11 @@
 |course|workshop|certificate|
 |------|--------|-----------|
-|xPore | [gmm](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb)     |[📃]  
-|biosignal| [brain signal](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/model.py)|[📃]
-|plagiarism|[code clone](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
-mental disorder| [NLP](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃]
+|xPore | [gmm](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/xpore_(1).ipynb)     |[📃](https://powerclass.org/tutor-certificate-3?cert_hash=065a9af428f32abf) 
+|biosignal| [brain signal](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/model.py)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=5de7032256e12099)
+|plagiarism|[code clone](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=0aade29f671aebbe)
+mental disorder| [NLP](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=3a7d61ff095706a9)
 BiTnet|[Effientnet](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_E_san_coding.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=8e627b84dabec27f)
-arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃][![IkfpyHOT13-1236d0576f804d2a](https://github.com/Chanoknunkal/PMU-B-PersonalAI/assets/156036800/87a6f351-994e-4cb1-b36b-d7eb5aca637f)](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
+arresting criminal|[YOLO](https://github.com/Chanoknunkal/PMU-B-PersonalAI/blob/main/Copy_of_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)|[📃](https://powerclass.org/tutor-certificate-3?cert_hash=1236d0576f804d2a)
 
 
 
